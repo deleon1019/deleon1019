@@ -22,7 +22,4 @@ I'm a passionate developer with a love for creating innovative solutions.
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername/)
 
-## 🎨 Fun with Animations
-
-![Animation](https://media.giphy.com/media/YOUR_ANIMATION_LINK/giphy.gif)
 
