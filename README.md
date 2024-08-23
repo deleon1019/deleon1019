@@ -7,32 +7,14 @@
 
 I'm a passionate developer with a love for creating innovative solutions.
 
-- 🔭 I’m currently working on [Your Project](https://github.com/yourusername/yourproject)
-- 🌱 I’m currently learning [Technology/Languages]
-- 👯 I’m looking to collaborate on [Project/Technology]
-- 🤔 I’m looking for help with [Area you need help with]
-- 💬 Ask me about [Your specialties]
-- 📫 How to reach me: [Your email or social media]
-- 😄 Pronouns: [Your pronouns]
-- ⚡ Fun fact: [A fun fact about you]
+- 👯 I’m looking to collaborate on amazing project.
+- 🤔 I’m looking for help with your business.
+- 💬 Ask me about what you need.
+- 📫 How to reach me: karimelmouadine375@gmail.com
 
 ## 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-
-## 📈 Github Stats
-
-![Your Username's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-
-## 💼 Projects
-
-- [Project 1](https://github.com/yourusername/project1)
-- [Project 2](https://github.com/yourusername/project2)
-- [Project 3](https://github.com/yourusername/project3)
 
 ## 📫 Connect with me
 
